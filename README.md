@@ -20,4 +20,5 @@
   
 </div>
 
-![snake gif](https://github.com/pdsimas/pdsimas/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/pdsimas/pdsimas/blob/output/github-contribution-grid-snake.svg)
+
